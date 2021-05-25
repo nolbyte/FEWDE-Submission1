@@ -30,16 +30,24 @@ body {
 .logo {
     text-decoration: none;
     color: #FFF;
+<<<<<<< HEAD
     display: inline-block;
     min-height: 44px;
     min-width: 44px;
 }
 
+=======
+}
+>>>>>>> 7ccd91c7491303f7db3886ac5420bf54307acc70
 .main-nav li {
     text-align: center;
     margin: 15px auto;
 }
 .logo {
+<<<<<<< HEAD
+=======
+    display: inline-block;
+>>>>>>> 7ccd91c7491303f7db3886ac5420bf54307acc70
     font-size: 22px;
     margin-top: 10px;
     margin-left: 20px;
@@ -52,7 +60,10 @@ body {
     color: #FFF;
     font-size: 24px;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7ccd91c7491303f7db3886ac5420bf54307acc70
 .active {
     display: block;
 }
@@ -152,9 +163,12 @@ body {
 .post-item_date_author {
     color: #DD1C1A;
     text-decoration: none;
+<<<<<<< HEAD
     display: inline-block;
     min-width: 44px;
     min-height: 44px;
+=======
+>>>>>>> 7ccd91c7491303f7db3886ac5420bf54307acc70
 }
 
 .post-item_title {
@@ -172,9 +186,12 @@ body {
 .post-item_title a {
     text-decoration: none;
     color: inherit;
+<<<<<<< HEAD
     display: inline-block;
     min-width: 44px;
     min-height: 44px;
+=======
+>>>>>>> 7ccd91c7491303f7db3886ac5420bf54307acc70
 }
 
 .post-item_description {
